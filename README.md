@@ -2,6 +2,10 @@
 
 Haiku komputerowe tłumaczone na język polski
 
+## Gdzie są wierszyki?
+
+Samo mięsko jest w [katalogu `haiku`](tree/main/haiku)
+
 ## Historia
 
 ### 404
